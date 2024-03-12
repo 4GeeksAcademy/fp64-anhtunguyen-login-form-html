@@ -1,0 +1,2 @@
+# App menú en mesa:
+App o web móvil que mediante un QR escaneado en mesa quede identificada la mesa y se acceda al menú del restaurante y desde el cual, se puedan hacer los pedidos directamente a caja, añadir comentarios, señalar alergias, añadir/quitar ingredientes, etc... sin necesidad de un camarero. Aun así, con un botón de llamada a camarero. (Existen apps similares aunque se utilizan con tablets propias del restaurante, la idea es que se utilice desde los smartphones de los propios clientes)
